@@ -11,5 +11,5 @@ To view the projects and code samples in this repository:
 Clone the repository:
 
 Copy code
-git clone https:https://github.com/soumyagupta174/portfolio/edit/main/README.md#portfolio
+git clone https:https:https://github.com/soumyagupta174/portfolio
 Open the project folders and explore the code.
